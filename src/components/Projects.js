@@ -4,9 +4,8 @@ import { ProjectCard } from "./ProjectCard";
 import route from '../assets/img/route.PNG'
 import panel from '../assets/img/panel.PNG'
 import login from '../assets/img/login.jpg'
-import pizza from '../assets/img/pizza.PNG'
+import pizza from '../assets/img/food.JPG'
 import shop from '../assets/img/shop.PNG'
-import food from '../assets/img/food.PNG'
 import kazadmin from '../assets/img/kazadmin.PNG'
 import human from '../assets/img/human.PNG'
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -40,14 +39,14 @@ export const Projects = () => {
     
     
     {
-      title: "Food Ordering",
+      title: "E-commerce App",
       description: "Design & Development",
       imgUrl: pizza,
     },
     {
-      title: "Food Delivery",
+      title: "Business App",
       description: "Design & Development",
-      imgUrl: food,
+      imgUrl: shop,
     },
     
     

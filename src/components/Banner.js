@@ -76,7 +76,9 @@ export const Banner = () => {
               </span>
             </h1>
         </div>
-                  <p> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;Graduate Software Engineer and Front-End Developer with 3 years of experience working with JavaScript, HTML/CSS and ReactJs, to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction.</p>
+                  <p> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;Graduate Software Engineer and Full Stack MERN Developer with +4 years of hands-on experience in JavaScript,
+ReactJs, NextJs, and NodeJs. I specialize in crafting intuitive, responsive designs and ensuring flawless crossbrowser
+compatibility.</p>
                   {/* <button onClick={() => console.log('connect')} >Let’s Connect <ArrowRightCircle size={25} /></button> */}
                   <a href={CV}  className='btn' type="do" target='_blank' >See CV</a>
               </div>}

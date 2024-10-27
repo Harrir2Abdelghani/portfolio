@@ -37,8 +37,8 @@ export const Exp = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 
-                                <h4>Software Developer</h4>
-                                <h6>01/2018 - 07/2018,Algeria</h6>
+                                <h4>Software developer intern</h4>
+                                <h6>09/2020 - 12/2021,Tiaret</h6>
                                 <br />
                                 <br />
                                 <p>-Study the different dimensions of the problem in order to find effective solutions.</p>
@@ -49,8 +49,8 @@ export const Exp = () => {
                             </div>
                             <div className="item">
                                 
-                                <h4>Front-End Developer</h4>
-                                <h6>09/2020 - 01/2021,Tiaret</h6>
+                                <h4>Tech Lead/React Developer</h4>
+                                <h6>02/2022 - 02/2023,Tlemcen</h6>
                                 <br />
                                 <br />
                                 <p>-Design and implement user interface components for JavaScript (web-mobile) applications.</p>
@@ -61,8 +61,8 @@ export const Exp = () => {
                             </div>
                             <div className="item">
                                 
-                                <h4>React Developer</h4>
-                                <h6>07/2022 - 11/2022,Tlemcen</h6>
+                                <h4>Full Stack Web Developer</h4>
+                                <h6>08/2022 - 09/2023,Lille</h6>
                                 <br />
                                 <br />
                                 <p>-Created client side validation tool using technologies such as ReactJS and NextJs.</p>
@@ -73,8 +73,8 @@ export const Exp = () => {
                             </div>
                             <div className="item">
                                 
-                                <h4>Full Stack  Developer</h4>
-                                <h6>11/2022 - 03/2023,France</h6>
+                                <h4>Software Development Engineer</h4>
+                                <h6>04/2023 - 01/2024,Tiaret</h6>
                                 <br />
                                 <br />
                                 <p>-Developing and designing front end web architecture and building interactive consumer data .</p>
@@ -85,8 +85,8 @@ export const Exp = () => {
                             
                             <div className="item">
                                 
-                                <h4>Software Engineer</h4>
-                                <h6>05/2023 - 02/2024,Algeria</h6>
+                                <h4>Reactjs/Nodejs Developer</h4>
+                                <h6>01/2024 - 10/2024,Riyadh</h6>
                                 <br />
                                 <br />
                                 <p>-Designing and maintaining software systèmes.</p>
@@ -94,20 +94,6 @@ export const Exp = () => {
                                 <p>-Build reusable code and libraries for future use.</p>
                                 
                             </div>
-                          
-                            
-                            <div className="item">
-                                
-                                <h4>Freelancer NextJs Developer</h4>
-                                <h6>03/2024 - Present,KSA</h6>
-                                <br />
-                                <br />
-                                <p>-Designing and maintaining software systèmes.</p>
-                                <p>-build server-side-rendered React applications.</p>
-                                <p>-creating fast and SEO-friendly web experiences.</p>
-                                
-                            </div>
-                           
                            
                         </Carousel>
                     </div>
